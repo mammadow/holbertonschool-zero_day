@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 echo "This School is so cool!" # Best School
-=======
-#!/bin/bash
-echo "Best School" # This is the UPDATE_SCRIPT version
->>>>>>> update_script
